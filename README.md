@@ -6,3 +6,5 @@
 源代码来源：
 
 [https://github.com/jadore801120/attention-is-all-you-need-pytorch](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
+
+[https://github.com/harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer)
